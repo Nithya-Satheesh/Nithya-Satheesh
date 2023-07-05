@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋 I am Nithya Satheesh
+![](https://visitor-badge.laobi.icu/badge?page_id=Nithya-Satheesh.Nithya-Satheesh)
+
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on any Flutter, React or ML projects.
+
+
+<br />
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Nithya-Satheesh)](https://git.io/streak-stats)
+
+![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithya-Satheesh&theme=dark&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithya-Satheesh&theme=tokyonight)
 
 <!--
 **Nithya-Satheesh/Nithya-Satheesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
