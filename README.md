@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Nithya Satheesh
 ![](https://visitor-badge.laobi.icu/badge?page_id=Nithya-Satheesh.Nithya-Satheesh)
 
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on any Flutter, React or ML projects.
+- 🌱 I’m currently working as a backend developer
+- 👯 I’m looking to collaborate on any Django, Flutter, React or ML projects.
 
 
 <br />
